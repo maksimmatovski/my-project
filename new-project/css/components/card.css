@@ -1,0 +1,29 @@
+.card img {
+   width: 430px;
+}
+
+.card {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 800px;
+}
+
+.card h3 {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.card:hover {
+	box-shadow: -10px 20px 47px rgb(0 0 0 / 20%);
+	transition: 2;
+}
+
+.paragraphe {
+	padding: 15px;
+}
+
+.paragraphe h3 {
+	margin: 0px;
+}
